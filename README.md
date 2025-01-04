@@ -90,14 +90,16 @@ endmodule
 ![TT](https://github.com/user-attachments/assets/19795fc5-8781-4391-a821-6dcc50fee79c)
 
 
-**RTL realization Output:** 
+**RTL:** 
 
-![exp 1 b](https://github.com/user-attachments/assets/216c0efc-7a28-4a26-894a-acab47893164)
+![joann 2](https://github.com/user-attachments/assets/48688d9e-7f0e-4ae1-9ad1-f0ae77300bf4)
 
 
-**RTL**
 
-![exp 1 a](https://github.com/user-attachments/assets/09d98c33-8217-4055-aa77-7a197b39aac1)
+**Output:**
+
+![joann 1](https://github.com/user-attachments/assets/457fdfe7-a733-44c3-9023-4cdb1c0f157b)
+
 
 
 **Result:**
